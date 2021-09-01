@@ -1,6 +1,8 @@
-       🤡 _Olá! Me chamo Victoria_
+         _Olá! Me chamo Victoria_
 
 - 📚 Estudando atualmente » Python
+- 📧 Email: victoriasouza4321@gmail.com
+- 🤖 Discord: vick ッツ#1234
 
 <div>
   <a href="https://github.com/vickwithluv">
